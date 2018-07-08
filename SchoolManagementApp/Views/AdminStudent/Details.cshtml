@@ -1,0 +1,179 @@
+﻿@model SchoolManagementRepository.Student
+
+@{
+    Layout = "~/Views/Shared/_SharedLayout.cshtml";
+}
+@section title{
+    <title>Details</title>
+}
+@section css{
+
+}
+    <table align="center">
+        <tr>
+            <td align="center">
+                <div>
+                    <h1>Student Details</h1>
+                    <hr />
+                    <dl class="dl-horizontal">
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Username)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Username)
+                        </dd>
+                        <dt>
+
+                            @Html.DisplayNameFor(model => model.FirstName)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.FirstName)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.LastName)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.LastName)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.DOB)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.DOB)
+                        </dd>
+
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.ClassNumber)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.ClassNumber)
+                        </dd>
+
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Roll)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Roll)
+                        </dd>
+
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Gender)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Gender)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Religion)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Religion)
+                        </dd>
+
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Email)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Email)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.FatherName)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.FatherName)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.FatherOccupation)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.FatherOccupation)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.MotherName)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.MotherName)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.MotherOccupation)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.MotherOccupation)
+                        </dd>
+
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.GurdianPhoneNo)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.GurdianPhoneNo)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Address)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Address)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.AdmissionDate)
+                            <b>:</b>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.AdmissionDate)
+                        </dd>
+                    </dl>
+                </div>
+                <p>
+                    <button type="button" class="btn btn-primary"> @Html.ActionLink("Edit", "Edit", new { id = Model.ID }, new { @style = "color:white;" })</button> &nbsp;|&nbsp;
+                    <button type="button" class="btn btn-primary">   @Html.ActionLink("Back to List", "Index",null, new { @style = "color:white;" })</button>
+                </p>
+                <br/>
+                <br />
+            </td>
+        </tr>
+    </table>
+    
+    

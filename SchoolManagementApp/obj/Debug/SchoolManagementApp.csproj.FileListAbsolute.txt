@@ -1,0 +1,260 @@
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\ApplicationInsights.config
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\csc.exe
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\vbc.exe
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementApp.dll.config
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementApp.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementApp.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.Web.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Helpers.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Mvc.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Razor.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.Web.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Razor.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Helpers.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Mvc.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\obj\Debug\SchoolManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\obj\Debug\SchoolManagementApp.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\obj\Debug\SchoolManagementApp.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementRepository.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementRepository.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\ApplicationInsights.config
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\csc.exe
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\vbc.exe
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementApp.dll.config
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementApp.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementApp.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.Web.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementRepository.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Helpers.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Mvc.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Razor.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementRepository.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.Web.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Razor.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Helpers.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Mvc.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\obj\Debug\SchoolManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\obj\Debug\SchoolManagementApp.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementApp\obj\Debug\SchoolManagementApp.pdb
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\ApplicationInsights.config
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\csc.exe
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\System.Collections.Immutable.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\System.Reflection.Metadata.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\vbc.exe
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\VBCSCompiler.exe
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\VBCSCompiler.exe.config
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementApp.dll.config
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementApp.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementApp.pdb
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.SqlServer.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.Agent.Intercept.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.DependencyCollector.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.Web.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.WindowsServer.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.ApplicationInsights.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.Web.Infrastructure.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementRepository.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Helpers.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Mvc.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Razor.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Deployment.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Razor.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementRepository.pdb
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.SqlServer.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.DependencyCollector.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.Web.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.WindowsServer.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.ApplicationInsights.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Razor.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Deployment.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Razor.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Helpers.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Mvc.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\obj\Debug\SchoolManagementApp.csprojResolveAssemblyReference.cache
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\obj\Debug\SchoolManagementApp.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementApp\obj\Debug\SchoolManagementApp.pdb
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\ApplicationInsights.config
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\csc.exe
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\System.Collections.Immutable.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\vbc.exe
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\VBCSCompiler.exe
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\VBCSCompiler.exe.config
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementApp.dll.config
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementApp.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementApp.pdb
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.SqlServer.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.Web.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.WindowsServer.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.ApplicationInsights.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.Web.Infrastructure.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementRepository.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Helpers.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Mvc.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Razor.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Deployment.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Razor.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementRepository.pdb
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.SqlServer.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.Web.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.WindowsServer.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.ApplicationInsights.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Razor.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Deployment.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Razor.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Helpers.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Mvc.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\obj\Debug\SchoolManagementApp.csprojResolveAssemblyReference.cache
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\obj\Debug\SchoolManagementApp.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementApp\obj\Debug\SchoolManagementApp.pdb
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\ApplicationInsights.config
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\csc.exe
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\System.Collections.Immutable.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\vbc.exe
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\VBCSCompiler.exe
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\roslyn\VBCSCompiler.exe.config
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementApp.dll.config
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementApp.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementApp.pdb
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.SqlServer.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.Agent.Intercept.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.DependencyCollector.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.Web.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.WindowsServer.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.ApplicationInsights.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.Web.Infrastructure.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementRepository.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Helpers.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Mvc.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Razor.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Deployment.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Razor.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\SchoolManagementRepository.pdb
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\EntityFramework.SqlServer.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.DependencyCollector.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.Web.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.AI.WindowsServer.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.ApplicationInsights.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Razor.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Deployment.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Webpages.Razor.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Helpers.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\bin\System.Web.Mvc.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\obj\Debug\SchoolManagementApp.csprojResolveAssemblyReference.cache
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\obj\Debug\SchoolManagementApp.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementApp\obj\Debug\SchoolManagementApp.pdb

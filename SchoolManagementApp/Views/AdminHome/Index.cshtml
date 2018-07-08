@@ -1,0 +1,73 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_SharedLayout.cshtml";
+}
+@section title{
+    <title>Home Page</title>
+}
+ @section css{
+   <link rel="stylesheet" href="~/Content/Dashboard.css">
+}
+
+<table>
+    <tr>
+        <td>
+           
+            <div class="gallery">
+                <a  href="/AdminStudent/Index">
+                    <img src="~/Content/image/student.jpg" alt="Total Students" width="300" height="200">
+                </a>
+                <div class="desc" style="font-size:xx-large">
+                <p>
+                     <b>
+                        @ViewBag.CountStudent <br />Student
+                    </b>
+                </p>
+                </div>
+            </div>
+
+            <div class="gallery">
+                <a  href="/AdminEmployee/Index">
+                    <img src="~/Content/image/teacher.jpg" alt="Total Teachers" width="300" height="200">
+                </a>
+                <div class="desc" style="font-size:xx-large">
+                    <p>
+                        <b>
+                            @ViewBag.CountEmployee <br />Employee
+                        </b>
+                    </p>
+                </div>
+            </div>
+
+            <div class="gallery">
+                <a  href="#">
+                    <img src="~/Content/image/course.jpg" alt="course" width="300" height="200">
+                </a>
+               
+                <div class="desc" style="font-size:xx-large">
+                    <p>
+                        <b>
+                            10 <br />Course
+                        </b>
+                    </p>
+                </div>
+                </div>
+
+            <div class="gallery">
+                <a href="/AdminProfile/Index">
+                    <img src="~/Content/image/profile.jpg" alt="profile" width="300" height="200">
+                </a>
+                <div class="desc" style="font-size:xx-large">
+                    <p>
+                        <b>
+                             Profile
+                        </b>
+                    </p>
+                
+                </div>
+            </div>
+
+        </td>
+    </tr>
+
+</table>

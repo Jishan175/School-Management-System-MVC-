@@ -1,0 +1,32 @@
+﻿body{
+   background-color:white;
+}
+div.gallery {
+    margin: 50px;
+    border: 2px solid #ccc;
+    float: left;
+    transition: transform .6s;
+    width: 200px;
+    height: 250px;
+    margin: 15 auto;
+    padding :10px;
+}
+
+div.gallery:hover {
+         border: 1px solid #777;
+        -ms-transform: scale(1.2); /* IE 9 */
+        -webkit-transform: scale(1.2); /* Safari 3-8 */
+        transform: scale(1.1); 
+        
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+

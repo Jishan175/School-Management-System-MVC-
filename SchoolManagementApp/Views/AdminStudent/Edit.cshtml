@@ -1,0 +1,464 @@
+﻿@model SchoolManagementRepository.Student
+
+@{
+    Layout = "~/Views/Shared/_SharedLayout.cshtml";
+}
+@section title{
+    <title>Edit Details</title>
+}
+@section css{
+
+}
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h1>
+            <button type="button" class="btn btn-primary"> @Html.ActionLink("Back to List", "Index", null, new { style = "color:white" })</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;New Student Information
+        </h1>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <table align="center">
+            <tr>
+                <td align="center">
+                    <table align="center">
+                        <tr>
+                            <td align="center">
+                                <div class="form-group">
+                                    <table align="center">
+                                        <tr>
+                                            <td align="center">
+                                                <p style="font-size=5"><b>Username&nbsp;&nbsp;</b></p>
+                                            </td>
+                                            <td align="center">
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.Username, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.Username, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                       
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <table align="center">
+                        <tr>
+                            <td align="center">
+                                <div class="form-group">
+                                    <table align="center">
+                                        <tr>
+                                            <td align="center">
+                                                <p style="font-size=5"><b>First Name&nbsp;&nbsp;</b></p>
+                                            </td>
+                                            <td align="center">
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="form-group">
+                                    <table>
+                                        <tr>
+                                            <td>
+                                                <p style="font-size=5"><b>Last Name</b></p>
+                                            </td>
+                                            <td>
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <table align="left">
+                        <tr>
+                            <td align="left">
+                                <div class="form-group">
+                                    <table align="center">
+                                        <tr>
+                                            <td align="left">
+                                                <p style="font-size=5"><b>&nbsp;&nbsp;&nbsp;&nbsp;Date of Birth</b></p>
+                                            </td>
+                                            <td align="center">
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.DOB, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.DOB, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table>
+                        <tr>
+                            <td>
+                                <div class="form-group">
+                                    <table align="left">
+                                        <tr>
+                                            <td align="right">
+                                                <p style="font-size=5"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Class&nbsp;&nbsp;</b></p>
+                                            </td>
+                                            <td align="left">
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.ClassNumber, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.ClassNumber, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="form-group">
+                                    <table align="left">
+                                        <tr>
+                                            <td align="right">
+                                                <p style="font-size=5"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Roll</b></p>
+                                            </td>
+                                            <td align="right">
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.Roll, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.Roll, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table>
+                        <tr>
+                            <td>
+                                <div class="form-group">
+                                    <table align="left">
+                                        <tr>
+                                            <td align="right">
+                                                <p style="font-size=5"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gender&nbsp;&nbsp;</b></p>
+                                            </td>
+                                            <td align="left">
+                                                <div class="col-md-10">
+                                                    <table>
+                                                        <tr>
+                                                            <td>
+                                                                @Html.RadioButtonFor(g => g.Gender, "Male")
+                                                            </td>
+                                                            <td>&nbsp;Male&nbsp;&nbsp;</td>
+                                                            <td>
+                                                                @Html.RadioButtonFor(g => g.Gender, "Female")
+                                                            </td>
+                                                            <td>&nbsp;Feamale</td>
+                                                        </tr>
+                                                    </table>
+
+                                                    @Html.ValidationMessageFor(model => model.Gender, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="form-group">
+                                    <table align="left">
+                                        <tr>
+                                            <td align="right">
+                                                <p style="font-size=5">
+                                                    <b>
+                                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Religion
+                                                    </b>
+                                                </p>
+                                            </td>
+                                            <td align="right">
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.Religion, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.Religion, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <table align="left">
+                        <tr>
+                            <td align="left">
+                                <div class="form-group">
+                                    <table align="center">
+                                        <tr>
+                                            <td align="left">
+                                                <p style="font-size=5"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email&nbsp;&nbsp;</b></p>
+                                            </td>
+                                            <td align="center">
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <table align="center">
+                        <tr>
+                            <td align="center">
+                                <div class="form-group">
+                                    <table align="center">
+                                        <tr>
+                                            <td align="center">
+                                                <p style="font-size=5"><b>Father Name</b></p>
+                                            </td>
+                                            <td align="center">
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.FatherName, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.FatherName, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="form-group">
+                                    <table>
+                                        <tr>
+                                            <td>
+                                                <p style="font-size=5"><b>Occupation</b></p>
+                                            </td>
+                                            <td>
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.FatherOccupation, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.FatherOccupation, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <table align="center">
+                        <tr>
+                            <td align="center">
+                                <div class="form-group">
+                                    <table align="center">
+                                        <tr>
+                                            <td align="center">
+                                                <p style="font-size=5"><b>Mother Name</b></p>
+                                            </td>
+                                            <td align="center">
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.MotherName, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.MotherName, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="form-group">
+                                    <table>
+                                        <tr>
+                                            <td>
+                                                <p style="font-size=5"><b>Occupation</b></p>
+                                            </td>
+                                            <td>
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.MotherOccupation, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.MotherOccupation, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <table align="left">
+                        <tr>
+                            <td align="left">
+                                <div class="form-group">
+                                    <table align="center">
+                                        <tr>
+                                            <td align="left">
+                                                <p style="font-size=5"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phone No&nbsp;&nbsp;</b></p>
+                                            </td>
+                                            <td align="center">
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.GurdianPhoneNo, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.GurdianPhoneNo, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <table align="left">
+                        <tr>
+                            <td align="left">
+                                <div class="form-group">
+                                    <table align="center">
+                                        <tr>
+                                            <td align="left">
+                                                <p style="font-size=5"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Address&nbsp;&nbsp;</b></p>
+                                            </td>
+                                            <td align="center">
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.Address, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <table align="center">
+                        <tr>
+                            <td align="center">
+                                <div class="form-group">
+                                    <table align="center">
+                                        <tr>
+                                            <td align="center">
+                                                <p style="font-size=5"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Password&nbsp;&nbsp;</b></p>
+                                            </td>
+                                            <td align="center">
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="form-group">
+                                    <table>
+                                        <tr>
+                                            <td>
+                                                <p style="font-size=5"><b>Re-Password</b></p>
+                                            </td>
+                                            <td>
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.ConfirmPassword, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.ConfirmPassword, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <table align="left">
+                        <tr>
+                            <td align="left">
+                                <div class="form-group">
+                                    <table align="left">
+                                        <tr>
+                                            <td align="left">
+                                                <p style="font-size=4"><b>AdmissionDate</b></p>
+                                            </td>
+                                            <td align="left">
+                                                <div class="col-md-10">
+                                                    @Html.EditorFor(model => model.AdmissionDate, new { htmlAttributes = new { @class = "form-control" } })
+                                                    @Html.ValidationMessageFor(model => model.AdmissionDate, "", new { @class = "text-danger" })
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="reset" style="color:white; background-color:#8A040D;" value="Cancel" class="btn btn-default" />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <input type="submit" style="color:white; background-color:#032C64;" value="Save" class="btn btn-default" />
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+}
+

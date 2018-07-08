@@ -1,0 +1,50 @@
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\SchoolManagementRepository.dll.config
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\SchoolManagementRepository.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\SchoolManagementRepository.pdb
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\obj\Debug\SchoolManagementRepository.csprojResolveAssemblyReference.cache
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\obj\Debug\SchoolManagementRepository.dll
+C:\Users\Jishan\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\obj\Debug\SchoolManagementRepository.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\SchoolManagementRepository.dll.config
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\SchoolManagementRepository.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\SchoolManagementRepository.pdb
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\obj\Debug\SchoolManagementRepository.csprojResolveAssemblyReference.cache
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\obj\Debug\SchoolManagementRepository.dll
+C:\Users\Assaduzzaman\Documents\Visual Studio 2015\Projects\School Management System\SchoolManagementSolution\SchoolManagementRepository\obj\Debug\SchoolManagementRepository.pdb
+I:\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\SchoolManagementRepository.dll.config
+I:\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\SchoolManagementRepository.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\SchoolManagementRepository.pdb
+I:\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.SqlServer.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.SqlServer.xml
+I:\School Management System\SchoolManagementSolution\SchoolManagementRepository\obj\Debug\SchoolManagementRepository.csprojResolveAssemblyReference.cache
+I:\School Management System\SchoolManagementSolution\SchoolManagementRepository\obj\Debug\SchoolManagementRepository.dll
+I:\School Management System\SchoolManagementSolution\SchoolManagementRepository\obj\Debug\SchoolManagementRepository.pdb
+D:\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\SchoolManagementRepository.dll.config
+D:\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\SchoolManagementRepository.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\SchoolManagementRepository.pdb
+D:\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.SqlServer.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.SqlServer.xml
+D:\School Management System\SchoolManagementSolution\SchoolManagementRepository\obj\Debug\SchoolManagementRepository.csprojResolveAssemblyReference.cache
+D:\School Management System\SchoolManagementSolution\SchoolManagementRepository\obj\Debug\SchoolManagementRepository.dll
+D:\School Management System\SchoolManagementSolution\SchoolManagementRepository\obj\Debug\SchoolManagementRepository.pdb
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\SchoolManagementRepository.dll.config
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\SchoolManagementRepository.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\SchoolManagementRepository.pdb
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.SqlServer.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementRepository\bin\Debug\EntityFramework.SqlServer.xml
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementRepository\obj\Debug\SchoolManagementRepository.csprojResolveAssemblyReference.cache
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementRepository\obj\Debug\SchoolManagementRepository.dll
+F:\10th Semester\6.ATP II (Asp.net)\Mid Project\SchoolManagementSolution\SchoolManagementRepository\obj\Debug\SchoolManagementRepository.pdb

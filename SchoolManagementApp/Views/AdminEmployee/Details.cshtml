@@ -1,0 +1,137 @@
+﻿@model SchoolManagementRepository.Employee
+
+@{
+    Layout = "~/Views/Shared/_SharedLayout.cshtml";
+}
+@section title{
+    <title>Details</title>
+}
+@section css{
+
+}
+<table align="center">
+    <tr>
+        <td align="center">
+            <div>
+                <h1>Employee Details</h1>
+                <hr />
+                <dl class="dl-horizontal">
+                    
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Username)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Username)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.FirstName)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.FirstName)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.LastName)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.LastName)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.DOB)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.DOB)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Gender)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Gender)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Religion)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Religion)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Designation)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Designation)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Email)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Email)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.PhoneNo)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.PhoneNo)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Address)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Address)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Password)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Password)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.JoiningDate)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.JoiningDate)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Salary)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Salary)
+                    </dd>
+                    
+
+                </dl>
+            </div>
+            <p>
+                <button type="button" class="btn btn-primary"> @Html.ActionLink("Edit", "Edit", new { id = Model.ID }, new { @style = "color:white;" })</button> &nbsp;|&nbsp;
+                <button type="button" class="btn btn-primary">   @Html.ActionLink("Back to List", "Index", null, new { @style = "color:white;" })</button>
+            </p>
+        </td>
+    </tr>
+</table>
+
+    
+  
+

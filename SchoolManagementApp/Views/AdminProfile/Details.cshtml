@@ -1,0 +1,52 @@
+﻿@model SchoolManagementRepository.AdminProfile
+
+@{
+    Layout = "~/Views/Shared/_SharedLayout.cshtml";
+}
+@section title{
+    <title>Details</title>
+}
+@section css{
+
+}
+<table align="center">
+    <tr>
+        <td align="center">
+            <div>
+                <h4>AdminProfile</h4>
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Username)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Username)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Email)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Email)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Password)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Password)
+                    </dd>
+
+                </dl>
+            </div>
+            <p>
+                <button type="button" class="btn btn-primary"> @Html.ActionLink("Edit", "Edit", new { id = Model.ID }, new { @style = "color:white;" })</button> &nbsp;|&nbsp;
+                <button type="button" class="btn btn-primary">   @Html.ActionLink("Back to List", "Index", null, new { @style = "color:white;" })</button>
+            </p>
+        </td>
+    </tr>
+</table>
+    

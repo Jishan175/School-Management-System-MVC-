@@ -1,0 +1,42 @@
+﻿@model IEnumerable<SchoolManagementRepository.AdminProfile>
+
+@{
+    Layout = "~/Views/Shared/_SharedLayout.cshtml";
+}
+@section title{
+    <title>Home Page</title>
+}
+@section css{
+
+}
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Username)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    <button type="button" class="btn btn-primary"> @Html.ActionLink("Edit", "Edit", new { id = item.ID }, new { @style = "color:white;" }) </button>
+                    <button type="button" class="btn btn-success"> @Html.ActionLink("Details", "Details", new { id = item.ID }, new { @style = "color:white;" })</button>
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>

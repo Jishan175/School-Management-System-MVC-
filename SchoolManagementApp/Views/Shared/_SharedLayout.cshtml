@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    @RenderSection("title")
+    <link rel="stylesheet" href="~/Content/SharedLayoutStyleSheet.css">
+    <link rel="stylesheet" href="~/Content/cssbtn/bootstrap.min.css">
+    <script src="~/scripts/SharedLayoutScript.js"></script>
+    <script src="~/scripts/btnscripts/jquery.min.js"></script>
+    <script src="~/scripts/btnscripts/bootstrap.min.js"></script>
+    @RenderSection("css")
+   
+</head>
+<body>
+
+    <div id="mySidenav" class="sidenav">
+        <span><img src="~/Content/image/adminlogo.png" /></span>
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    
+        @Html.ActionLink("Dashboard", "Index", "AdminHome")
+        @Html.ActionLink("Student", "Index", "AdminStudent")
+        @Html.ActionLink("Employee", "Index", "AdminEmployee")
+        @Html.ActionLink("Profile", "Index", "AdminProfile")
+        @Html.ActionLink("Log Out", "Create", "Login")
+    </div>
+    <div id="schooltitle">
+      
+            <h1 style="color:white; text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ABC HIGH SCHOOL&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;<a  href="~/Login/Create" style="text-decoration:none"> <img src="~/Content/image/power.png" height="50" width="50" /> </a></h1>
+          
+    </div>
+
+    <div id="main">
+        <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+        @RenderBody()
+    </div>
+    <div class="footer">
+        <p>&copy;Copyright.All Rights Reserved</p>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,90 @@
+﻿@model IEnumerable<SchoolManagementRepository.Employee>
+
+@{
+    Layout = "~/Views/Shared/_SharedLayout.cshtml";
+}
+@section title{
+    <title>Home Page</title>
+}
+@section css{
+   
+}
+    <p style="text-align:right">
+        <button type="button" class="btn btn-primary"> @Html.ActionLink("+ Create New Employee", "Create", null, new { @style = "color:white;" })</button>
+    </p>
+    <table class="table table-bordered" border="1">
+        <tr style="background-color:#D6DAF3">
+            <th align="right">
+               Username
+            </th>
+            <th align="right">
+                Firstname
+            </th>
+            <th align="right">
+                Lastname
+            </th>
+            
+            <th align="right">
+                Gender
+            </th>
+           
+            <th align="right">
+               Designation
+            </th>
+            <th align="right">
+               Email
+            </th>
+            <th align="right">
+               Phone No
+            </th>
+            <th align="right">
+                Joining Date
+            </th>
+            <th align="right">
+               Salary
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td align="center">
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td align="center">
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td align="center">
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+          
+            <td align="center">
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            
+            <td align="center">
+                @Html.DisplayFor(modelItem => item.Designation)
+            </td>
+            <td align="center">
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td align="center">
+                @Html.DisplayFor(modelItem => item.PhoneNo)
+            </td>
+            
+            <td align="center">
+                @Html.DisplayFor(modelItem => item.JoiningDate)
+            </td>
+            <td align="center">
+                @Html.DisplayFor(modelItem => item.Salary)
+            </td>
+            <td align="center">
+                <button type="button" class="btn btn-primary"> @Html.ActionLink("Edit", "Edit", new { id = item.ID }, new { @style = "color:white;" }) </button>
+                <button type="button" class="btn btn-success"> @Html.ActionLink("Details", "Details", new { id = item.ID }, new { @style = "color:white;" })</button>
+                <button type="button" class="btn btn-danger">  @Html.ActionLink("Delete", "Delete", new { id = item.ID }, new { @style = "color:white;" })</button>
+            </td>
+        </tr>
+    }
+    
+    </table>
+
